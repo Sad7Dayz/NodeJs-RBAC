@@ -4,7 +4,7 @@
 **RBAC (Role-Based Access Control)** is a security mechanism that restricts access to resources based on the roles assigned to users within a system. Instead of assigning permissions to individual users, permissions are grouped by role, and users are assigned to these roles.
 
 > 🎥 **Watch Full Tutorial Series on YouTube:**  
-> [Node.js API Boilerplate with RBAC, JWT & More (YouTube Playlist)](https://youtube.com/playlist?list=PLQDioScEMUhl3n7ibx-sl-Y_d__dFrTSr&si=aRZBvSdtotjK4bKY)
+[![YouTube Video](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://https://youtube.com/playlist?list=PLQDioScEMUhl3n7ibx-sl-Y_d__dFrTSr&si=nE8kXGlPx8dL0gi8)
 
 ---
 
