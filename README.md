@@ -10,9 +10,9 @@
 
 ### 🔧 Key Concepts
 
-- **Role**: A named set of permissions (e.g., `admin`, `editor`, `viewer`)
+- **Role**: A named set of permissions 
 - **User**: An individual who is assigned one or more roles
-- **Permission**: An action that can be performed on a resource (e.g., `create`, `read`, `update`, `delete`)
+- **Permission**: An action that can be performed on a resource 
 
 ### ✅ Benefits of RBAC
 
